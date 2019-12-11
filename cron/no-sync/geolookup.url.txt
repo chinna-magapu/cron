@@ -1,0 +1,95 @@
+Jac Thistledown
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/41.436453,-81.531118.json
+
+Belterra
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/39.051222,-84.410682.json
+
+
+
+
+Emerald Downs; 
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/47.327829,-122.238050
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/29.886,-81.352.json
+http://api.wunderground.com/api/0b771401b22d9d12/forecast/q/29.886,-81.352.json
+http://api.wunderground.com/api/0b771401b22d9d12/history_20120720/q/pws:pws:MTABRN.json
+
+
+http://api.wunderground.com/api/0b771401b22d9d12/conditions/q/KSGJ.json
+
+http://www.wunderground.com/?apiref=92613c88004b467e
+http://www.wunderground.com/US/FL/Saint_Augustine.html?apiref=92613c88004b467e
+
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/34.135912,-118.039209.json
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/33.950571,-118.343904.json
+
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/43.062633,-73.764374.json
+http://api.wunderground.com/api/0b771401b22d9d12/history_20111118/q/43.062633,-73.764374.json Date: 2011-11-18
+
+
+33.950571,-118.343904
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/42.091864,-88.011920.json
+
+http://api.wunderground.com/api/828bcd358ed824c8/history_20090515/q/KEMT.json
+http://api.wunderground.com/api/828bcd358ed824c8/history_20090515/q/33.950571,-118.343904.json
+http://api.wunderground.com/api/828bcd358ed824c8/history_20090515/q/42.091864,-88.011920.json
+
+http://api.wunderground.com/api/0b771401b22d9d12/history_20110515/q/KEMT.json
+http://api.wunderground.com/api/0b771401b22d9d12/history_20110515/q/KMWS.json
+http://api.wunderground.com/api/0b771401b22d9d12/history_20110515/q/KCQT.json
+http://api.wunderground.com/api/0b771401b22d9d12/history_20110515/q/KPOC.json
+
+Hollywood Park 33.950571,-118.343904 (NE of LA)
+Santa Anita 34.135912,-118.039209 (SW of LA)
+Distance 21.6 miles
+
+KCQT 34.0235, -118.2912
+14.4 miles from Hollywood Park, 5.9 miles from Santa Anita
+
+KHHR  33.9228,-118.3352
+
+302 denver
+http://api.wunderground.com/api/0b771401b22d9d12/history_20111118/q/32.754816,-103.186748.json Date: 2011-11-18
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/32.754816,-103.186748.json
+http://api.wunderground.com/api/828bcd358ed824c8/history_20111215/q/KHOB.json
+
+
+First WU scrape
+100	2011-10-22 00:52:00
+101	2009-03-31 00:53:00
+103	2011-11-20 00:22:00
+105	2011-11-20 00:53:00
+107	2009-04-30 00:53:00
+301	2009-04-30 00:53:00
+302	2011-11-20 05:50:00
+304	2009-04-29 00:47:00
+305	2011-11-20 00:55:00
+801	2011-11-20 00:51:00
+802	2011-11-20 00:51:00
+803	2011-11-20 00:53:00
+804	2011-11-20 00:53:00
+805	2011-11-20 00:20:00x
+806	2011-11-20 00:30:00
+807	2011-11-20 00:53:00
+809	2011-11-20 00:53:00
+810	2011-11-20 00:52:00
+811	2011-11-20 00:00:00x
+812	2011-11-20 00:15:00x
+813	2011-11-20 07:55:00
+814	2011-11-20 00:10:00x
+815	2011-11-20 00:54:00
+
+http://api.wunderground.com/api/828bcd358ed824c8/history_20111118/q/35.528559,-97.468622.json
+
+canterbury park
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/44.790480,-93.483009.json
+
+hastings
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/49.285789,-123.044049
+
+ocala
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/29.173938,-82.217348.json
+
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/39.491242,-76.773197
+
+SAR
+http://api.wunderground.com/api/0b771401b22d9d12/geolookup/q/42.071709,-73.767893.json

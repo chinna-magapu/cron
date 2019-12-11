@@ -1,0 +1,2 @@
+7za a D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\archive\KEE_2019.7z D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\KEENE*.DAT
+forfiles /p D:\HostingSpaces\admin\bioappeng.us\data\WS\processed /M KEENE*.dat /D -1 /C "cmd /c DEL @path" 

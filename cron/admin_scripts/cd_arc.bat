@@ -1,0 +1,2 @@
+7za a D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\archive\CD_2019.7z D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\Chur*.DAT
+forfiles /p D:\HostingSpaces\admin\bioappeng.us\data\WS\processed /M Chur*.dat /D -1 /C "cmd /c DEL @path" 

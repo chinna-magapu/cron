@@ -1,0 +1,16 @@
+intellergy.us
+# bae
+13,28,43,58 * * * * php /root/bae/wu_patchrw.php >> /root/bae/wu_hourly.log
+11 3,15 * * * php /root/bae/daily.php >> /root/bae/daily_clean.log
+
+bioappeng
+chrb.cmd 
+  "C:\Program Files (x86)\PHP\v5.3\php.exe" D:\HostingSpaces\admin\bioappeng.us\cron\chrb.php  >> logs\chrb.log
+equibase-scrape.cmd
+  "C:\Program Files (x86)\PHP\v5.3\php.exe" D:\HostingSpaces\admin\bioappeng.us\cron\equibase-scrape.php >> D:\HostingSpaces\admin\bioappeng.us\cron\logs\equibase-scrape.log
+load-wx.cmd
+  "C:\Program Files (x86)\PHP\v5.3\php.exe" D:\HostingSpaces\admin\bioappeng.us\cron\load_weather_us.php >> D:\HostingSpaces\admin\bioappeng.us\cron\logs\load_wx_log.txt
+racecard-scrape
+   D:\HostingSpaces\admin\bioappeng.us\cron\equibase-getcards.php
+load ip-100
+D:\HostingSpaces\admin\bioappeng.us\cron\load_ip100.php

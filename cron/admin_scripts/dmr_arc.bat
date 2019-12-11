@@ -1,0 +1,2 @@
+7za a D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\archive\DMR_2019.7z D:\HostingSpaces\admin\bioappeng.us\data\WS\processed\DelMar*.DAT
+forfiles /p D:\HostingSpaces\admin\bioappeng.us\data\WS\processed /M DelMar*.dat /D -1 /C "cmd /c DEL @path" 

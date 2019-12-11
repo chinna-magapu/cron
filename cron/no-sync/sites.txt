@@ -1,0 +1,91 @@
+idsite	code	name	lat	lon	timezone	wsid	wxsrc	type	llq
+101	_HP	Hollywood Park	33.950571	-118.343904	America/Los_Angeles		WU	Racetrack	33.950571,-118.343904
+805	_NIC	Nicosia Race Club	35.177211	33.327799	Europe/Nicosia		WU	Track	35.177211,33.327799
+201	_RB	Reeds-Brook Middle School	44.737429	-68.840043	America/New_York		WU	Other	44.737429,-68.840043
+807	_RDJ	Randall 'Doc' James Racetrack	17.697159	-64.791205	America/Moncton		WU	Track	17.697159,-64.791205
+812	AIK	Aiken Training Track	33.543778	-81.708418	America/New_York		WU	Training Center	33.543778,-81.708418
+100	AP	Arlington Park	42.091864	-88.01192	America/Chicago	9001111	IP-100	Racetrack	42.091864,-88.01192
+801	AQU	Aqueduct	40.677661	-73.828981	America/New_York	9000976	IP-100	Track	40.677661,-73.828981
+999	BAE	BAE Demo Track	44.883151	-68.669762	America/New_York		WU	Racetrack	44.883151,-68.669762
+802	BEL	Belmont Park	40.709289	-73.72144	America/New_York	70127	CS	Track	40.709289,-73.72144
+301	BSR	Fairplex	34.076078	-117.768574	America/Los_Angeles		WU	Racetrack	34.076078,-117.768574
+401	CBY	Canterbury Park	44.79048	-93.483009	America/Chicago		WU	Racetrack	44.79048,-93.483009
+102	CD	Churchill Downs	38.202638	-85.770538	America/New_York	9000975	IP-100	Racetrack	38.202638,-85.770538
+105	CRC	Calder Race Course	25.96066	-80.246363	America/New_York		WU	Racetrack	25.96066,-80.246363
+107	DMR	Del Mar	32.974486	-117.259848	America/Los_Angeles	30972	CS	Racetrack	32.974486,-117.259848
+106	EMD	Emerald Downs	47.327829	-122.23805	America/Los_Angeles	9001088	IP-100	Racetrack	47.327829,-122.23805
+303	EVD	Evangeline Downs	30.526745	-92.057345	America/Chicago		WU	Racetrack	30.526745,-92.057345
+103	FG	Fair Grounds Race Course	29.983199	-90.08376	America/Chicago	62304	CS	Racetrack	29.983199,-90.08376
+408	FL	Finger Lakes	42.968949	-77.341733	America/New_York		WU	Racetrack	42.968949,-77.341733
+803	FMT	Fair Meadows	36.13693	-95.92398	America/New_York		WU	Track	36.13693,-95.92398
+307	GG	Golden Gate Fields	37.881725	-122.30798	America/Los_Angeles	381823	WU	Racetrack	37.881725,-122.30798
+804	GP	Gulfstream Park	25.976849	-80.141883	America/New_York		WU	Track	25.976849,-80.141883
+813	GTC	Greentree	43.062633	-73.764374	America/New_York		WU	Training Center	43.062633,-73.764374
+402	HST	Hastings Racecourse	49.285789	-123.044049	America/Vancouver		WU	Racetrack	49.285789,-123.044049
+406	IND	Indiana Grand	39.526677	-85.785204	America/Indianapolis		WU	Racetrack	39.526677,-85.785204
+405	KD	Kentucky Downs	36.641498	-86.56231	America/Chicago		WU	Racetrack	36.641498,-86.56231
+104	KEE	Keeneland	38.093579	-84.41999	America/New_York	9001195	IP-100	Racetrack	38.093579,-84.41999
+306	LA	Los Alamitos	33.803111	-118.043947	America/Los_Angeles	381822	WU	Racetrack	33.803111,-118.043947
+407	LRL	Laurel Park	39.103768	-76.830997	America/New_York		WU	Racetrack	39.103768,-76.830997
+409	MTH	Monmouth Park	40.30986	-74.014721	America/New_York		WU	Racetrack	40.30986,-74.014721
+411	OP	Oaklawn Park	34.484684	-93.05733	America/Chicago	71834	CS	Racetrack	34.484684,-93.05733
+816	OTC	Ocala Breeders' Training Center	29.173938	-82.217348	America/New_York		WU	Training Center	29.173938,-82.217348
+814	PEG	Pegasus Training and Equine Rehabilitation Ce	47.668509	-121.990793	America/Los_Angeles		WU	Training Center	47.668509,-121.990793
+410	PIM	Pimlico	39.353013	-76.673493	America/New_York		WU	Racetrack	39.353013,-76.673493
+806	PM	Portland Meadows	45.591431	-122.67399	America/Los_Angeles		WU	Track	45.591431,-122.67399
+305	RP	Remington Park	35.528559	-97.468622	America/Chicago		WU	Racetrack	35.528559,-97.468622
+304	SA	Santa Anita	34.135912	-118.039209	America/Los_Angeles	381821	WU	Racetrack	34.135912,-118.039209
+809	SAR	Saratoga	42.071709	-73.767893	America/New_York		CS	Track	42.071709,-73.767893
+817	SGF	Sagamore Farms	39.491242	-76.773197	America/New_York		WU	Training Center	39.491242,-76.773197
+403	SUF	Suffolk Downs	42.390501	-70.997123	America/New_York		WU	Racetrack	42.390501,-70.997123
+404	SUN	Sunland Park	31.805326	-106.560066	America/Denver		WU	Racetrack	31.805326,-106.560066
+810	TP	Turfway Park	39.024018	-84.63438	America/New_York		WU	Track	39.024018,-84.63438
+811	WO	Woodbine	43.712898	-79.603071	America/New_York		WU	Track	43.712898,-79.603071
+815	WSR	Winstar Farm	38.084041	-84.659121	America/New_York		WU	Training Center	38.084041,-84.659121
+302	ZIA	Zia Park	32.754816	-103.186748	America/Denver		WU	Racetrack	32.754816,-103.186748
+
+idsite	code	name	lat	lon	timezone	wsid	wxsrc	type	llq
+100	AP	Arlington Park	42.091864	-88.01192	America/Chicago	9001111	IP-100	Racetrack	42.091864,-88.01192
+101	_HP	Hollywood Park	33.950571	-118.343904	America/Los_Angeles		WU	Racetrack	33.950571,-118.343904
+102	CD	Churchill Downs	38.202638	-85.770538	America/New_York	9000975	IP-100	Racetrack	38.202638,-85.770538
+103	FG	Fair Grounds Race Course	29.983199	-90.08376	America/Chicago	62304	CS	Racetrack	29.983199,-90.08376
+104	KEE	Keeneland	38.093579	-84.41999	America/New_York	9001195	IP-100	Racetrack	38.093579,-84.41999
+105	CRC	Calder Race Course	25.96066	-80.246363	America/New_York		WU	Racetrack	25.96066,-80.246363
+106	EMD	Emerald Downs	47.327829	-122.23805	America/Los_Angeles	9001088	IP-100	Racetrack	47.327829,-122.23805
+107	DMR	Del Mar	32.974486	-117.259848	America/Los_Angeles	30972	CS	Racetrack	32.974486,-117.259848
+201	_RB	Reeds-Brook Middle School	44.737429	-68.840043	America/New_York		WU	Other	44.737429,-68.840043
+301	BSR	Fairplex	34.076078	-117.768574	America/Los_Angeles		WU	Racetrack	34.076078,-117.768574
+302	ZIA	Zia Park	32.754816	-103.186748	America/Denver		WU	Racetrack	32.754816,-103.186748
+303	EVD	Evangeline Downs	30.526745	-92.057345	America/Chicago		WU	Racetrack	30.526745,-92.057345
+304	SA	Santa Anita	34.135912	-118.039209	America/Los_Angeles	381821	WU	Racetrack	34.135912,-118.039209
+305	RP	Remington Park	35.528559	-97.468622	America/Chicago		WU	Racetrack	35.528559,-97.468622
+306	LA	Los Alamitos	33.803111	-118.043947	America/Los_Angeles	381822	WU	Racetrack	33.803111,-118.043947
+307	GG	Golden Gate Fields	37.881725	-122.30798	America/Los_Angeles	381823	WU	Racetrack	37.881725,-122.30798
+401	CBY	Canterbury Park	44.79048	-93.483009	America/Chicago		WU	Racetrack	44.79048,-93.483009
+402	HST	Hastings Racecourse	49.285789	-123.044049	America/Vancouver		WU	Racetrack	49.285789,-123.044049
+403	SUF	Suffolk Downs	42.390501	-70.997123	America/New_York		WU	Racetrack	42.390501,-70.997123
+404	SUN	Sunland Park	31.805326	-106.560066	America/Denver		WU	Racetrack	31.805326,-106.560066
+405	KD	Kentucky Downs	36.641498	-86.56231	America/Chicago		WU	Racetrack	36.641498,-86.56231
+406	IND	Indiana Grand	39.526677	-85.785204	America/Indianapolis		WU	Racetrack	39.526677,-85.785204
+407	LRL	Laurel Park	39.103768	-76.830997	America/New_York		WU	Racetrack	39.103768,-76.830997
+408	FL	Finger Lakes	42.968949	-77.341733	America/New_York		WU	Racetrack	42.968949,-77.341733
+409	MTH	Monmouth Park	40.30986	-74.014721	America/New_York		WU	Racetrack	40.30986,-74.014721
+410	PIM	Pimlico	39.353013	-76.673493	America/New_York		WU	Racetrack	39.353013,-76.673493
+411	OP	Oaklawn Park	34.484684	-93.05733	America/Chicago	71834	CS	Racetrack	34.484684,-93.05733
+801	AQU	Aqueduct	40.677661	-73.828981	America/New_York	9000976	IP-100	Track	40.677661,-73.828981
+802	BEL	Belmont Park	40.709289	-73.72144	America/New_York	70127	CS	Track	40.709289,-73.72144
+803	FMT	Fair Meadows	36.13693	-95.92398	America/New_York		WU	Track	36.13693,-95.92398
+804	GP	Gulfstream Park	25.976849	-80.141883	America/New_York		WU	Track	25.976849,-80.141883
+805	_NIC	Nicosia Race Club	35.177211	33.327799	Europe/Nicosia		WU	Track	35.177211,33.327799
+806	PM	Portland Meadows	45.591431	-122.67399	America/Los_Angeles		WU	Track	45.591431,-122.67399
+807	_RDJ	Randall 'Doc' James Racetrack	17.697159	-64.791205	America/Moncton		WU	Track	17.697159,-64.791205
+809	SAR	Saratoga	42.071709	-73.767893	America/New_York		CS	Track	42.071709,-73.767893
+810	TP	Turfway Park	39.024018	-84.63438	America/New_York		WU	Track	39.024018,-84.63438
+811	WO	Woodbine	43.712898	-79.603071	America/New_York		WU	Track	43.712898,-79.603071
+812	AIK	Aiken Training Track	33.543778	-81.708418	America/New_York		WU	Training Center	33.543778,-81.708418
+813	GTC	Greentree	43.062633	-73.764374	America/New_York		WU	Training Center	43.062633,-73.764374
+814	PEG	Pegasus Training and Equine Rehabilitation Ce	47.668509	-121.990793	America/Los_Angeles		WU	Training Center	47.668509,-121.990793
+815	WSR	Winstar Farm	38.084041	-84.659121	America/New_York		WU	Training Center	38.084041,-84.659121
+816	OTC	Ocala Breeders' Training Center	29.173938	-82.217348	America/New_York		WU	Training Center	29.173938,-82.217348
+817	SGF	Sagamore Farms	39.491242	-76.773197	America/New_York		WU	Training Center	39.491242,-76.773197
+999	BAE	BAE Demo Track	44.883151	-68.669762	America/New_York		WU	Racetrack	44.883151,-68.669762

@@ -1,0 +1,10 @@
+SELECT * 
+FROM equibase_workouts
+ORDER BY DATE DESC 
+
+SELECT * 
+FROM  `equibase_workouts_log` 
+ORDER BY scraped DESC 
+
+
+SELECT d.*,w.scraped  FROM `equibase_workout_data` d inner join equibase_workouts_log w on d.url = w.url order by w.scraped desc

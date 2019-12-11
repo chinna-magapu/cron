@@ -1,0 +1,3861 @@
+Equibase workouts API run: Thu, 20 Dec 18 11:50:43 -0500
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CT /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/EVD/USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/WO /CAN/2018-12-13): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/EVD/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CT /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/WO /CAN/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/ZIA/USA/2018-12-14): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/ZIA/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OTC/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-15): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/ZIA/USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-16): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/EVD/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/ZIA/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AIK/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SUN/USA/2018-12-17): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/ZIA/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PM /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/EVD/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SUN/USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CT /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-18): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SUN/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CT /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CD /USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OTC/USA/2018-12-19): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GP /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LRL/USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/TP /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/SA /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/LA /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/BEL/USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/CT /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/GG /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/RP /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/AQU/USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/FG /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/PIM/USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Warning: file_get_contents(https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/OP /USA/2018-12-20): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version Not Supported
+ in C:\inetpub\wwwroot\bae\cron\equibase-api.php on line 151
+
+Process Endpoint Failed to fetch data from {url}
+
+Done Thu, 20 Dec 18 11:52:09 -0500
+Equibase workouts API run: Thu, 20 Dec 18 12:20:43 -0500
+
+Get Endpoints: URL: https://api.equibase.com/data-api/QdieUTc0Bo4OmFe1oCu9vjjfqsUg6RDhzoWvHChg/workouts/basic/
+
+json len:44919
+Data
+stdClass Object
+(
+    [trackDateUriList] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [trackId] => CT 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CT /USA/2018-12-13
+                )
+
+            [1] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-13
+                )
+
+            [2] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-13
+                )
+
+            [3] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-13
+                )
+
+            [4] => stdClass Object
+                (
+                    [trackId] => DER
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DER/USA/2018-12-13
+                )
+
+            [5] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-13
+                )
+
+            [6] => stdClass Object
+                (
+                    [trackId] => KEE
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/KEE/USA/2018-12-13
+                )
+
+            [7] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-13
+                )
+
+            [8] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-13
+                )
+
+            [9] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-13
+                )
+
+            [10] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-13
+                )
+
+            [11] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-13
+                )
+
+            [12] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-13
+                )
+
+            [13] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-13
+                )
+
+            [14] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-13
+                )
+
+            [15] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-13
+                )
+
+            [16] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-13
+                )
+
+            [17] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-13
+                )
+
+            [18] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-13
+                )
+
+            [19] => stdClass Object
+                (
+                    [trackId] => NJF
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NJF/USA/2018-12-13
+                )
+
+            [20] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-13
+                )
+
+            [21] => stdClass Object
+                (
+                    [trackId] => ARI
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ARI/USA/2018-12-13
+                )
+
+            [22] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-13
+                )
+
+            [23] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-13
+                )
+
+            [24] => stdClass Object
+                (
+                    [trackId] => RSD
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RSD/USA/2018-12-13
+                )
+
+            [25] => stdClass Object
+                (
+                    [trackId] => HPT
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HPT/USA/2018-12-13
+                )
+
+            [26] => stdClass Object
+                (
+                    [trackId] => GLS
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GLS/USA/2018-12-13
+                )
+
+            [27] => stdClass Object
+                (
+                    [trackId] => TCS
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TCS/USA/2018-12-13
+                )
+
+            [28] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-13
+                )
+
+            [29] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-13
+                )
+
+            [30] => stdClass Object
+                (
+                    [trackId] => PBD
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PBD/USA/2018-12-13
+                )
+
+            [31] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-13
+                )
+
+            [32] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-13
+                )
+
+            [33] => stdClass Object
+                (
+                    [trackId] => CDT
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CDT/USA/2018-12-13
+                )
+
+            [34] => stdClass Object
+                (
+                    [trackId] => RIS
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RIS/USA/2018-12-13
+                )
+
+            [35] => stdClass Object
+                (
+                    [trackId] => OEC
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OEC/USA/2018-12-13
+                )
+
+            [36] => stdClass Object
+                (
+                    [trackId] => EVD
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EVD/USA/2018-12-13
+                )
+
+            [37] => stdClass Object
+                (
+                    [trackId] => STT
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/STT/USA/2018-12-13
+                )
+
+            [38] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-13
+                )
+
+            [39] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-13
+                )
+
+            [40] => stdClass Object
+                (
+                    [trackId] => OWT
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OWT/USA/2018-12-13
+                )
+
+            [41] => stdClass Object
+                (
+                    [trackId] => WO 
+                    [raceDate] => 2018-12-13
+                    [country] => CAN
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WO /CAN/2018-12-13
+                )
+
+            [42] => stdClass Object
+                (
+                    [trackId] => WST
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WST/USA/2018-12-13
+                )
+
+            [43] => stdClass Object
+                (
+                    [trackId] => CAA
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CAA/USA/2018-12-13
+                )
+
+            [44] => stdClass Object
+                (
+                    [trackId] => SON
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SON/USA/2018-12-13
+                )
+
+            [45] => stdClass Object
+                (
+                    [trackId] => PNS
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PNS/USA/2018-12-13
+                )
+
+            [46] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-13
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-13
+                )
+
+            [47] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-14
+                )
+
+            [48] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-14
+                )
+
+            [49] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-14
+                )
+
+            [50] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-14
+                )
+
+            [51] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-14
+                )
+
+            [52] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-14
+                )
+
+            [53] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-14
+                )
+
+            [54] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-14
+                )
+
+            [55] => stdClass Object
+                (
+                    [trackId] => BON
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BON/USA/2018-12-14
+                )
+
+            [56] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-14
+                )
+
+            [57] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-14
+                )
+
+            [58] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-14
+                )
+
+            [59] => stdClass Object
+                (
+                    [trackId] => EVD
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EVD/USA/2018-12-14
+                )
+
+            [60] => stdClass Object
+                (
+                    [trackId] => PBD
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PBD/USA/2018-12-14
+                )
+
+            [61] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-14
+                )
+
+            [62] => stdClass Object
+                (
+                    [trackId] => CT 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CT /USA/2018-12-14
+                )
+
+            [63] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-14
+                )
+
+            [64] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-14
+                )
+
+            [65] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-14
+                )
+
+            [66] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-14
+                )
+
+            [67] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-14
+                )
+
+            [68] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-14
+                )
+
+            [69] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-14
+                )
+
+            [70] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-14
+                )
+
+            [71] => stdClass Object
+                (
+                    [trackId] => CDT
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CDT/USA/2018-12-14
+                )
+
+            [72] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-14
+                )
+
+            [73] => stdClass Object
+                (
+                    [trackId] => HPT
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HPT/USA/2018-12-14
+                )
+
+            [74] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-14
+                )
+
+            [75] => stdClass Object
+                (
+                    [trackId] => WO 
+                    [raceDate] => 2018-12-14
+                    [country] => CAN
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WO /CAN/2018-12-14
+                )
+
+            [76] => stdClass Object
+                (
+                    [trackId] => SLR
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SLR/USA/2018-12-14
+                )
+
+            [77] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-14
+                )
+
+            [78] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-14
+                )
+
+            [79] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-14
+                )
+
+            [80] => stdClass Object
+                (
+                    [trackId] => STR
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/STR/USA/2018-12-14
+                )
+
+            [81] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-14
+                )
+
+            [82] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-14
+                )
+
+            [83] => stdClass Object
+                (
+                    [trackId] => RIS
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RIS/USA/2018-12-14
+                )
+
+            [84] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-14
+                )
+
+            [85] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-14
+                )
+
+            [86] => stdClass Object
+                (
+                    [trackId] => EQL
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EQL/USA/2018-12-14
+                )
+
+            [87] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-14
+                )
+
+            [88] => stdClass Object
+                (
+                    [trackId] => ZIA
+                    [raceDate] => 2018-12-14
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ZIA/USA/2018-12-14
+                )
+
+            [89] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-15
+                )
+
+            [90] => stdClass Object
+                (
+                    [trackId] => CCT
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CCT/USA/2018-12-15
+                )
+
+            [91] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-15
+                )
+
+            [92] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-15
+                )
+
+            [93] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-15
+                )
+
+            [94] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-15
+                )
+
+            [95] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-15
+                )
+
+            [96] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-15
+                )
+
+            [97] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-15
+                )
+
+            [98] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-15
+                )
+
+            [99] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-15
+                )
+
+            [100] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-15
+                )
+
+            [101] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-15
+                )
+
+            [102] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-15
+                )
+
+            [103] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-15
+                )
+
+            [104] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-15
+                )
+
+            [105] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-15
+                )
+
+            [106] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-15
+                )
+
+            [107] => stdClass Object
+                (
+                    [trackId] => SLR
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SLR/USA/2018-12-15
+                )
+
+            [108] => stdClass Object
+                (
+                    [trackId] => RIS
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RIS/USA/2018-12-15
+                )
+
+            [109] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-15
+                )
+
+            [110] => stdClass Object
+                (
+                    [trackId] => PBD
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PBD/USA/2018-12-15
+                )
+
+            [111] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-15
+                )
+
+            [112] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-15
+                )
+
+            [113] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-15
+                )
+
+            [114] => stdClass Object
+                (
+                    [trackId] => RSD
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RSD/USA/2018-12-15
+                )
+
+            [115] => stdClass Object
+                (
+                    [trackId] => LS 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LS /USA/2018-12-15
+                )
+
+            [116] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-15
+                )
+
+            [117] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-15
+                )
+
+            [118] => stdClass Object
+                (
+                    [trackId] => SGC
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SGC/USA/2018-12-15
+                )
+
+            [119] => stdClass Object
+                (
+                    [trackId] => ZIA
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ZIA/USA/2018-12-15
+                )
+
+            [120] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-15
+                )
+
+            [121] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-15
+                )
+
+            [122] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-15
+                )
+
+            [123] => stdClass Object
+                (
+                    [trackId] => OTC
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OTC/USA/2018-12-15
+                )
+
+            [124] => stdClass Object
+                (
+                    [trackId] => ELL
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ELL/USA/2018-12-15
+                )
+
+            [125] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-15
+                )
+
+            [126] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-15
+                )
+
+            [127] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-15
+                )
+
+            [128] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-15
+                )
+
+            [129] => stdClass Object
+                (
+                    [trackId] => SKY
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SKY/USA/2018-12-15
+                )
+
+            [130] => stdClass Object
+                (
+                    [trackId] => CAM
+                    [raceDate] => 2018-12-15
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CAM/USA/2018-12-15
+                )
+
+            [131] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-16
+                )
+
+            [132] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-16
+                )
+
+            [133] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-16
+                )
+
+            [134] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-16
+                )
+
+            [135] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-16
+                )
+
+            [136] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-16
+                )
+
+            [137] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-16
+                )
+
+            [138] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-16
+                )
+
+            [139] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-16
+                )
+
+            [140] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-16
+                )
+
+            [141] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-16
+                )
+
+            [142] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-16
+                )
+
+            [143] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-16
+                )
+
+            [144] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-16
+                )
+
+            [145] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-16
+                )
+
+            [146] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-16
+                )
+
+            [147] => stdClass Object
+                (
+                    [trackId] => SPC
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SPC/USA/2018-12-16
+                )
+
+            [148] => stdClass Object
+                (
+                    [trackId] => ZIA
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ZIA/USA/2018-12-16
+                )
+
+            [149] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-16
+                )
+
+            [150] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-16
+                )
+
+            [151] => stdClass Object
+                (
+                    [trackId] => WM 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WM /USA/2018-12-16
+                )
+
+            [152] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-16
+                )
+
+            [153] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-16
+                )
+
+            [154] => stdClass Object
+                (
+                    [trackId] => NHF
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NHF/USA/2018-12-16
+                )
+
+            [155] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-16
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-16
+                )
+
+            [156] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-17
+                )
+
+            [157] => stdClass Object
+                (
+                    [trackId] => PBD
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PBD/USA/2018-12-17
+                )
+
+            [158] => stdClass Object
+                (
+                    [trackId] => EVD
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EVD/USA/2018-12-17
+                )
+
+            [159] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-17
+                )
+
+            [160] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-17
+                )
+
+            [161] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-17
+                )
+
+            [162] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-17
+                )
+
+            [163] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-17
+                )
+
+            [164] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-17
+                )
+
+            [165] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-17
+                )
+
+            [166] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-17
+                )
+
+            [167] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-17
+                )
+
+            [168] => stdClass Object
+                (
+                    [trackId] => SLR
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SLR/USA/2018-12-17
+                )
+
+            [169] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-17
+                )
+
+            [170] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-17
+                )
+
+            [171] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-17
+                )
+
+            [172] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-17
+                )
+
+            [173] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-17
+                )
+
+            [174] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-17
+                )
+
+            [175] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-17
+                )
+
+            [176] => stdClass Object
+                (
+                    [trackId] => PNS
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PNS/USA/2018-12-17
+                )
+
+            [177] => stdClass Object
+                (
+                    [trackId] => ZIA
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ZIA/USA/2018-12-17
+                )
+
+            [178] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-17
+                )
+
+            [179] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-17
+                )
+
+            [180] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-17
+                )
+
+            [181] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-17
+                )
+
+            [182] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-17
+                )
+
+            [183] => stdClass Object
+                (
+                    [trackId] => NJF
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NJF/USA/2018-12-17
+                )
+
+            [184] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-17
+                )
+
+            [185] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-17
+                )
+
+            [186] => stdClass Object
+                (
+                    [trackId] => WM 
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WM /USA/2018-12-17
+                )
+
+            [187] => stdClass Object
+                (
+                    [trackId] => AIK
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AIK/USA/2018-12-17
+                )
+
+            [188] => stdClass Object
+                (
+                    [trackId] => HPT
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HPT/USA/2018-12-17
+                )
+
+            [189] => stdClass Object
+                (
+                    [trackId] => HMP
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HMP/USA/2018-12-17
+                )
+
+            [190] => stdClass Object
+                (
+                    [trackId] => SUN
+                    [raceDate] => 2018-12-17
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SUN/USA/2018-12-17
+                )
+
+            [191] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-18
+                )
+
+            [192] => stdClass Object
+                (
+                    [trackId] => ZIA
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ZIA/USA/2018-12-18
+                )
+
+            [193] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-18
+                )
+
+            [194] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-18
+                )
+
+            [195] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-18
+                )
+
+            [196] => stdClass Object
+                (
+                    [trackId] => PM 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PM /USA/2018-12-18
+                )
+
+            [197] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-18
+                )
+
+            [198] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-18
+                )
+
+            [199] => stdClass Object
+                (
+                    [trackId] => NBS
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NBS/USA/2018-12-18
+                )
+
+            [200] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-18
+                )
+
+            [201] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-18
+                )
+
+            [202] => stdClass Object
+                (
+                    [trackId] => DEL
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DEL/USA/2018-12-18
+                )
+
+            [203] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-18
+                )
+
+            [204] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-18
+                )
+
+            [205] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-18
+                )
+
+            [206] => stdClass Object
+                (
+                    [trackId] => EVD
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EVD/USA/2018-12-18
+                )
+
+            [207] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-18
+                )
+
+            [208] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-18
+                )
+
+            [209] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-18
+                )
+
+            [210] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-18
+                )
+
+            [211] => stdClass Object
+                (
+                    [trackId] => PBD
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PBD/USA/2018-12-18
+                )
+
+            [212] => stdClass Object
+                (
+                    [trackId] => CAA
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CAA/USA/2018-12-18
+                )
+
+            [213] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-18
+                )
+
+            [214] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-18
+                )
+
+            [215] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-18
+                )
+
+            [216] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-18
+                )
+
+            [217] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-18
+                )
+
+            [218] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-18
+                )
+
+            [219] => stdClass Object
+                (
+                    [trackId] => CRU
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CRU/USA/2018-12-18
+                )
+
+            [220] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-18
+                )
+
+            [221] => stdClass Object
+                (
+                    [trackId] => SUN
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SUN/USA/2018-12-18
+                )
+
+            [222] => stdClass Object
+                (
+                    [trackId] => BNT
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BNT/USA/2018-12-18
+                )
+
+            [223] => stdClass Object
+                (
+                    [trackId] => SLR
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SLR/USA/2018-12-18
+                )
+
+            [224] => stdClass Object
+                (
+                    [trackId] => CT 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CT /USA/2018-12-18
+                )
+
+            [225] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-18
+                )
+
+            [226] => stdClass Object
+                (
+                    [trackId] => HBS
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HBS/USA/2018-12-18
+                )
+
+            [227] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-18
+                )
+
+            [228] => stdClass Object
+                (
+                    [trackId] => CDT
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CDT/USA/2018-12-18
+                )
+
+            [229] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-18
+                )
+
+            [230] => stdClass Object
+                (
+                    [trackId] => PNS
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PNS/USA/2018-12-18
+                )
+
+            [231] => stdClass Object
+                (
+                    [trackId] => OEC
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OEC/USA/2018-12-18
+                )
+
+            [232] => stdClass Object
+                (
+                    [trackId] => KEE
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/KEE/USA/2018-12-18
+                )
+
+            [233] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-18
+                )
+
+            [234] => stdClass Object
+                (
+                    [trackId] => HUF
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HUF/USA/2018-12-18
+                )
+
+            [235] => stdClass Object
+                (
+                    [trackId] => OJO
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OJO/USA/2018-12-18
+                )
+
+            [236] => stdClass Object
+                (
+                    [trackId] => EQL
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/EQL/USA/2018-12-18
+                )
+
+            [237] => stdClass Object
+                (
+                    [trackId] => MTC
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MTC/USA/2018-12-18
+                )
+
+            [238] => stdClass Object
+                (
+                    [trackId] => TCS
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TCS/USA/2018-12-18
+                )
+
+            [239] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-18
+                )
+
+            [240] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-18
+                )
+
+            [241] => stdClass Object
+                (
+                    [trackId] => ITC
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ITC/USA/2018-12-18
+                )
+
+            [242] => stdClass Object
+                (
+                    [trackId] => NJF
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NJF/USA/2018-12-18
+                )
+
+            [243] => stdClass Object
+                (
+                    [trackId] => WND
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/WND/USA/2018-12-18
+                )
+
+            [244] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-18
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-18
+                )
+
+            [245] => stdClass Object
+                (
+                    [trackId] => TTC
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TTC/USA/2018-12-19
+                )
+
+            [246] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-19
+                )
+
+            [247] => stdClass Object
+                (
+                    [trackId] => TAM
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TAM/USA/2018-12-19
+                )
+
+            [248] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-19
+                )
+
+            [249] => stdClass Object
+                (
+                    [trackId] => OEC
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OEC/USA/2018-12-19
+                )
+
+            [250] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-19
+                )
+
+            [251] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-19
+                )
+
+            [252] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-19
+                )
+
+            [253] => stdClass Object
+                (
+                    [trackId] => MER
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MER/USA/2018-12-19
+                )
+
+            [254] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-19
+                )
+
+            [255] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-19
+                )
+
+            [256] => stdClass Object
+                (
+                    [trackId] => MVR
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MVR/USA/2018-12-19
+                )
+
+            [257] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-19
+                )
+
+            [258] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-19
+                )
+
+            [259] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-19
+                )
+
+            [260] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-19
+                )
+
+            [261] => stdClass Object
+                (
+                    [trackId] => BLK
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BLK/USA/2018-12-19
+                )
+
+            [262] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-19
+                )
+
+            [263] => stdClass Object
+                (
+                    [trackId] => SUN
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SUN/USA/2018-12-19
+                )
+
+            [264] => stdClass Object
+                (
+                    [trackId] => KEE
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/KEE/USA/2018-12-19
+                )
+
+            [265] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-19
+                )
+
+            [266] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-19
+                )
+
+            [267] => stdClass Object
+                (
+                    [trackId] => MNR
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/MNR/USA/2018-12-19
+                )
+
+            [268] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-19
+                )
+
+            [269] => stdClass Object
+                (
+                    [trackId] => CM 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CM /USA/2018-12-19
+                )
+
+            [270] => stdClass Object
+                (
+                    [trackId] => NHF
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NHF/USA/2018-12-19
+                )
+
+            [271] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-19
+                )
+
+            [272] => stdClass Object
+                (
+                    [trackId] => PAY
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PAY/USA/2018-12-19
+                )
+
+            [273] => stdClass Object
+                (
+                    [trackId] => LS 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LS /USA/2018-12-19
+                )
+
+            [274] => stdClass Object
+                (
+                    [trackId] => SLR
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SLR/USA/2018-12-19
+                )
+
+            [275] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-19
+                )
+
+            [276] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-19
+                )
+
+            [277] => stdClass Object
+                (
+                    [trackId] => STC
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/STC/USA/2018-12-19
+                )
+
+            [278] => stdClass Object
+                (
+                    [trackId] => CT 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CT /USA/2018-12-19
+                )
+
+            [279] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-19
+                )
+
+            [280] => stdClass Object
+                (
+                    [trackId] => NJF
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/NJF/USA/2018-12-19
+                )
+
+            [281] => stdClass Object
+                (
+                    [trackId] => RSD
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RSD/USA/2018-12-19
+                )
+
+            [282] => stdClass Object
+                (
+                    [trackId] => CDT
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CDT/USA/2018-12-19
+                )
+
+            [283] => stdClass Object
+                (
+                    [trackId] => HPT
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HPT/USA/2018-12-19
+                )
+
+            [284] => stdClass Object
+                (
+                    [trackId] => SAM
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SAM/USA/2018-12-19
+                )
+
+            [285] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-19
+                )
+
+            [286] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-19
+                )
+
+            [287] => stdClass Object
+                (
+                    [trackId] => ELL
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ELL/USA/2018-12-19
+                )
+
+            [288] => stdClass Object
+                (
+                    [trackId] => FRN
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FRN/USA/2018-12-19
+                )
+
+            [289] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-19
+                )
+
+            [290] => stdClass Object
+                (
+                    [trackId] => CD 
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CD /USA/2018-12-19
+                )
+
+            [291] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-19
+                )
+
+            [292] => stdClass Object
+                (
+                    [trackId] => OTC
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OTC/USA/2018-12-19
+                )
+
+            [293] => stdClass Object
+                (
+                    [trackId] => OHC
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OHC/USA/2018-12-19
+                )
+
+            [294] => stdClass Object
+                (
+                    [trackId] => CTT
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CTT/USA/2018-12-19
+                )
+
+            [295] => stdClass Object
+                (
+                    [trackId] => SON
+                    [raceDate] => 2018-12-19
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SON/USA/2018-12-19
+                )
+
+            [296] => stdClass Object
+                (
+                    [trackId] => GG 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GG /USA/2018-12-20
+                )
+
+            [297] => stdClass Object
+                (
+                    [trackId] => DED
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/DED/USA/2018-12-20
+                )
+
+            [298] => stdClass Object
+                (
+                    [trackId] => TUP
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TUP/USA/2018-12-20
+                )
+
+            [299] => stdClass Object
+                (
+                    [trackId] => GP 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GP /USA/2018-12-20
+                )
+
+            [300] => stdClass Object
+                (
+                    [trackId] => LRL
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LRL/USA/2018-12-20
+                )
+
+            [301] => stdClass Object
+                (
+                    [trackId] => HAW
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HAW/USA/2018-12-20
+                )
+
+            [302] => stdClass Object
+                (
+                    [trackId] => PEN
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PEN/USA/2018-12-20
+                )
+
+            [303] => stdClass Object
+                (
+                    [trackId] => FAI
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FAI/USA/2018-12-20
+                )
+
+            [304] => stdClass Object
+                (
+                    [trackId] => TP 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/TP /USA/2018-12-20
+                )
+
+            [305] => stdClass Object
+                (
+                    [trackId] => SA 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/SA /USA/2018-12-20
+                )
+
+            [306] => stdClass Object
+                (
+                    [trackId] => LA 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LA /USA/2018-12-20
+                )
+
+            [307] => stdClass Object
+                (
+                    [trackId] => BEL
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/BEL/USA/2018-12-20
+                )
+
+            [308] => stdClass Object
+                (
+                    [trackId] => CT 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CT /USA/2018-12-20
+                )
+
+            [309] => stdClass Object
+                (
+                    [trackId] => PMM
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PMM/USA/2018-12-20
+                )
+
+            [310] => stdClass Object
+                (
+                    [trackId] => KEE
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/KEE/USA/2018-12-20
+                )
+
+            [311] => stdClass Object
+                (
+                    [trackId] => PRX
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PRX/USA/2018-12-20
+                )
+
+            [312] => stdClass Object
+                (
+                    [trackId] => RP 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RP /USA/2018-12-20
+                )
+
+            [313] => stdClass Object
+                (
+                    [trackId] => ALB
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/ALB/USA/2018-12-20
+                )
+
+            [314] => stdClass Object
+                (
+                    [trackId] => AQU
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/AQU/USA/2018-12-20
+                )
+
+            [315] => stdClass Object
+                (
+                    [trackId] => FG 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/FG /USA/2018-12-20
+                )
+
+            [316] => stdClass Object
+                (
+                    [trackId] => HPT
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/HPT/USA/2018-12-20
+                )
+
+            [317] => stdClass Object
+                (
+                    [trackId] => PIM
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/PIM/USA/2018-12-20
+                )
+
+            [318] => stdClass Object
+                (
+                    [trackId] => GPW
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/GPW/USA/2018-12-20
+                )
+
+            [319] => stdClass Object
+                (
+                    [trackId] => RET
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/RET/USA/2018-12-20
+                )
+
+            [320] => stdClass Object
+                (
+                    [trackId] => CDT
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/CDT/USA/2018-12-20
+                )
+
+            [321] => stdClass Object
+                (
+                    [trackId] => LAD
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/LAD/USA/2018-12-20
+                )
+
+            [322] => stdClass Object
+                (
+                    [trackId] => OP 
+                    [raceDate] => 2018-12-20
+                    [country] => USA
+                    [raceNumber] => 0
+                    [dayEvening] => NA
+                    [endpoint] => /workouts/basic/OP /USA/2018-12-20
+                )
+
+        )
+
+)
